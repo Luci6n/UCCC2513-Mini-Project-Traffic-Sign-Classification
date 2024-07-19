@@ -1,6 +1,6 @@
 # Mini Project Trimester 202406 Tutorial 2 Team No 2
 
-## Traffic Classification
+## Traffic Sign Classification
 
 | Student Name  | Student ID | Role | Email Address |
 | ------------- | ------------- | --- | --- |
