@@ -5,6 +5,7 @@
 ## Datasets
 ### Introduction
 <p align="justify">The TSRD includes 6164 traffic sign images containing 58 sign categories. The images are devided into two sub-database as training database and testing database. The training database includes 4170 images while the testing one contains 1994 images. All images are annotated the four corrdinates of the sign and the category.</p>
+
 Link to TSRD dataset: [Traffic Sign Recognition Database](https://nlpr.ia.ac.cn/PAL/TRAFFICDATA/RECOGNITION.HTML)
 
 ## Data Preprocessing
