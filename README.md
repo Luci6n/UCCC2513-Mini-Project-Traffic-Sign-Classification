@@ -16,3 +16,5 @@ The TSRD includes 6164 traffic sign images containing 58 sign categories. The im
 | [Tan Kai Jun](https://github.com/JosephTanKaiJun) | 2206494 | Member | kaijuntan423@1utar.my |
 | [Ler Jun Wei](https://github.com/Luci6n) | 2207200 | Member | luci6n231@1utar.my |
 | [Wong Kenji](https://github.com/wkenjii) | 2206455 | Member | wkenji02@1utar.my |
+
+<br>w[i]_tutorial directory or file is just file for our weekly activites/exercises, may take a look or just ignore it
