@@ -16,7 +16,7 @@ Link to TSRD dataset: [Traffic Sign Recognition Database](https://nlpr.ia.ac.cn/
 ## Installation
 1. Go to [TSRD](https://nlpr.ia.ac.cn/PAL/TRAFFICDATA/RECOGNITION.HTML) to download all the dataset and annotation, if only want to try demo, download the [test image dataset](https://nlpr.ia.ac.cn/PAL/TRAFFICDATA/TSRD-Test.zip) should be enough
 2. Download the [T2_G2](https://github.com/Luci6n/UCCC2513-Mini-Project-Traffic-Sign-Classification/blob/main/Finalized-Code/T2_G2.ipynb) notebook file to test run our project, otherwise download [Demo](https://github.com/Luci6n/UCCC2513-Mini-Project-Traffic-Sign-Classification/blob/main/Finalized-Code/Demo.ipynb) notebook to just demo on our model
-3. Remember to download all the models from our [model](https://github.com/Luci6n/UCCC2513-Mini-Project-Traffic-Sign-Classification/tree/main/Model) directory and allocate them as the same path as the notebook
+3. Remember to download all the [models](https://drive.google.com/drive/folders/1C6Kps2zv9PIAVBGl4tiel1MwGzguBvDi?usp=sharing) and allocate them as the same path as the notebook
 4. Enjoy!
 
 ## Members who contributed to this project
