@@ -32,5 +32,3 @@ Link to TSRD dataset: [Traffic Sign Recognition Database](https://nlpr.ia.ac.cn/
 | [Wong Kenji](https://github.com/wkenjii) | 2206455 | Member | wkenji02@1utar.my |
 
 w[i]_tutorial file or directory are just weekly activites/project for our this course project, can take a look if interested or just ignore it
-
-<br>w[i]_tutorial directory or file is just file for our weekly activites/exercises, may take a look or just ignore it
